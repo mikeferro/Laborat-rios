@@ -12,3 +12,4 @@ b=5
 if (a+b)==4:
     print("resultado é 4")
 print ("erro")
+print("teste")
