@@ -1,2 +1,2 @@
-# Laborat-rios
+# Laboratórios
 Laboratórios 2
